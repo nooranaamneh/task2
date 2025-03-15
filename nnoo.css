@@ -1,0 +1,106 @@
+
+.Logo{
+    background-color:rgb(135, 216, 222);
+    font-weight: 400;
+    font-size: 40px;
+    border-radius: 20px;
+    padding: 20px;
+}
+.menu{
+    background-color:rgb(187, 97, 228);
+    font-weight: 400;
+    font-size: 40px;
+    border-radius: 20px;
+    border-color: beige;
+    padding: 20px;
+    margin-top: 20px;
+}
+.name{
+    background-color:rgb(235, 164, 214);
+    color: rgb(215, 6, 138);
+    font-weight: 400;
+    font-size: 40px;
+    border-radius: 20px;
+    padding: 20px;
+    margin-top: 20px;
+}
+.abb{
+    background-color:rgb(115, 155, 211);
+    color: rgb(17, 1, 87);
+    font-weight: 400;
+    font-size: 40px;
+    border-radius: 20px;
+    padding: 20px;
+    margin-top: 20px;
+}
+.sec1{
+    background-color:rgb(240, 167, 207);
+    height: 70px;
+    border-radius: 20px;
+    padding: 20px;
+    margin-top: 20px;
+
+}
+.sec2{
+    background-color:rgb(159, 135, 255);
+    height: 100px;
+    border-radius: 20px;
+    margin-top: 20px;
+    padding: 20px;
+     
+}
+h2{
+    color: rgba(87, 1, 54, 0.852);
+    font-size: 40px;
+    border-radius: 20px;
+}
+h3{
+    color: rgba(9, 2, 61, 0.852);
+    font-size: 40px;
+    border-radius: 20px;
+}
+.helo{
+    color: rgba(56, 3, 78, 0.852);
+    font-size: 20px;
+    text-decoration: none;
+}
+.ab{
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.852);
+}
+.pp{
+    color: rgba(255, 255, 255, 0.852);
+}
+.Fixed{
+    background-color:rgb(196, 152, 207);
+    position: fixed;
+    top: 0;
+    width: 1480px;
+    padding: 10px;
+    border-radius: 20px;
+}
+.relative{
+    background-color:rgb(207, 98, 138);
+    position: relative;
+    border-radius: 20px;
+    padding: 10px;
+    margin-top: 20px;
+}
+.absolute{
+    background-color:rgb(62, 99, 184);
+    position: absolute;
+    width: 1480px;
+    border-radius: 20px;
+    margin-top: 20px;
+    padding: 10px;
+    top: 20px;
+}
+.sticky{
+    position: sticky;
+    background-color:rgb(116, 40, 40);
+    border-radius: 20px;
+    margin-top: 20px;
+    padding: 10px;
+    top: 1000px;
+    margin-bottom: 1000px;
+}
